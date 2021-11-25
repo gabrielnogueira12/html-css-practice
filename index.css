@@ -1,0 +1,54 @@
+body {
+    background: #151515;
+    color: #ffffff;
+}
+
+a {
+    font-family: 'Advent Pro';
+    text-decoration: none;
+    color: white;
+}
+
+.menu-font {
+    font-family: 'Advent Pro';
+    position: relative;
+    left: 50px;
+}
+
+.standard-font {
+    font-family: 'Advent Pro';
+    color: white;
+    font-size: 22px;
+}
+
+.title-font {
+    font-family: 'Advent Pro';
+    color: white;
+    font-size: xx-large;
+}
+
+.menu {
+    background-color: #2B2B2B;
+    height: 100%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    padding-top: 60px;
+    overflow-x: hidden;
+    transition: 0.5s;
+}
+
+
+.menu-images {
+    position: relative;
+    top: 5px;
+}
+
+.header-images {
+    position: relative;
+    top: 10px;
+}
+
+
+
